@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+    <net-file value="krpuram_left_no_signal.net.xml"/>
+    </input>
+	<time>
+		<begin value="0"/>
+		<end value="1000"/>
+		<step-length value="0.2"/>
+	</time>
+</configuration>
